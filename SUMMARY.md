@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [如何写一篇好的技术文章](README.md)
 
